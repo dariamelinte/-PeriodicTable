@@ -11,7 +11,7 @@ table {
 
 }
 td {
-	border: 3px solid black; /*culoarea bordurii si prima e grosimea*/
+	border: 3px solid black; /*culosssarea bordurii si prima e grosimea*/
     text-align: center;
     padding: 12px; /*spatiu dintre scris si bordura*/
 	color:black; /*culoarea din interior ,daca vrei poti sa pui un bg-color sa ai casuta colorata si scrisul altfel */
