@@ -17,6 +17,12 @@ td {
 	font-family: Georgia;
 }
 
+.hoverable:hover {
+	background-color: var(--hover);
+	color: white;
+	cursor: pointer;
+}
+
 .empty{
     border: none;
 }

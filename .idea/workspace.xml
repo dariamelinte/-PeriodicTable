@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="731ba8ce-c80d-4cbd-978f-c6bef66c17af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/InfoChim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/_modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/elements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_for-all.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/_for-all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/_styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/_table.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/_table.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grupe-elemente/_actinide.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grupe-elemente/_actinide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grupe-elemente/_alcaline.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grupe-elemente/_alcaline.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grupe-elemente/_alcalino-pamantoase.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grupe-elemente/_alcalino-pamantoase.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grupe-elemente/_gaze-nobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grupe-elemente/_gaze-nobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grupe-elemente/_halogeni.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grupe-elemente/_halogeni.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grupe-elemente/_lantanide.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grupe-elemente/_lantanide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grupe-elemente/_metaloizi.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grupe-elemente/_metaloizi.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grupe-elemente/_nemetale.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grupe-elemente/_nemetale.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grupe-elemente/_post-tranzitie.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grupe-elemente/_post-tranzitie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grupe-elemente/_tranzitie.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grupe-elemente/_tranzitie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_page/table_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_page/table_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fundal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resources/images/fundal.jpg" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html_page/table_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="181" column="50" lean-forward="true" selection-start-line="181" selection-start-column="50" selection-end-line="181" selection-end-column="50" />
+              <folding>
+                <element signature="e#353#360#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/modal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/_table.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/_table.css" />
+        <option value="$PROJECT_DIR$/css/grupe-elemente/_nemetale.css" />
+        <option value="$PROJECT_DIR$/css/grupe-elemente/_actinide.css" />
+        <option value="$PROJECT_DIR$/css/grupe-elemente/_alcaline.css" />
+        <option value="$PROJECT_DIR$/css/grupe-elemente/_alcalino-pamantoase.css" />
+        <option value="$PROJECT_DIR$/css/grupe-elemente/_gaze-nobile.css" />
+        <option value="$PROJECT_DIR$/css/grupe-elemente/_halogeni.css" />
+        <option value="$PROJECT_DIR$/css/grupe-elemente/_lantanide.css" />
+        <option value="$PROJECT_DIR$/css/grupe-elemente/_metaloizi.css" />
+        <option value="$PROJECT_DIR$/css/grupe-elemente/_post-tranzitie.css" />
+        <option value="$PROJECT_DIR$/css/grupe-elemente/_tranzitie.css" />
+        <option value="$PROJECT_DIR$/html_page/index.html" />
+        <option value="$PROJECT_DIR$/css/_styles.css" />
+        <option value="$PROJECT_DIR$/css/_for-all.css" />
+        <option value="$PROJECT_DIR$/css/_modal.css" />
+        <option value="$PROJECT_DIR$/resources/elements.json" />
+        <option value="$PROJECT_DIR$/resources/elements.js" />
+        <option value="$PROJECT_DIR$/html_page/table_page.html" />
+        <option value="$PROJECT_DIR$/js/modal.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-1" />
+    <option name="width" value="1366" />
+    <option name="height" value="370" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InfoChim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoChim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoChim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoChim" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoChim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoChim" type="462c0819:PsiDirectoryNode" />
+              <item name="html_page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoChim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoChim" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InfoChim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InfoChim" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="731ba8ce-c80d-4cbd-978f-c6bef66c17af" name="Default Changelist" comment="" />
+      <created>1555253975495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555253975495</updated>
+      <workItem from="1555253977042" duration="5574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5574000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_nemetale.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_actinide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_alcaline.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_alcalino-pamantoase.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_gaze-nobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_halogeni.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_lantanide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_metaloizi.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_post-tranzitie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_tranzitie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/_modal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/_for-all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/_table.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_page/table_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="181" column="50" lean-forward="true" selection-start-line="181" selection-start-column="50" selection-end-line="181" selection-end-column="50" />
+          <folding>
+            <element signature="e#353#360#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/elements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

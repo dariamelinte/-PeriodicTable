@@ -4,7 +4,7 @@
 	background-color: var(--nemetale-bg-color);	
 }
 
-.nemetale:hover{
-	background-color: var(--hover);
-	color: white;
-}
+/*.nemetale:hover{*/
+/*	!*background-color: var(--hover);*!*/
+/*	!*color: white;*!*/
+/*}*/
