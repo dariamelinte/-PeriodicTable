@@ -1,0 +1,10 @@
+@import url("../_for-all.css");
+
+.halogeni{
+	background-color: var(--halogeni-bg-color);
+}
+
+.halogeni:hover{
+	background-color: var(--hover);
+	color: white;
+}

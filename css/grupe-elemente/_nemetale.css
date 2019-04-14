@@ -1,0 +1,10 @@
+@import url("../_for-all.css");
+
+.nemetale{
+	background-color: var(--nemetale-bg-color);	
+}
+
+.nemetale:hover{
+	background-color: var(--hover);
+	color: white;
+}

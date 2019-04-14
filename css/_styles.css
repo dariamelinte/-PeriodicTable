@@ -1,0 +1,27 @@
+@import url("../css/_for-all.css");
+@import url("../css/_table.css");
+
+@import "../css/grupe-elemente/_nemetale.css";
+@import "../css/grupe-elemente/_alcaline.css";
+@import "../css/grupe-elemente/_alcalino-pamantoase.css";
+@import "../css/grupe-elemente/_metaloizi.css";
+@import "../css/grupe-elemente/_tranzitie.css";
+@import "../css/grupe-elemente/_post-tranzitie.css";
+@import "../css/grupe-elemente/_halogeni.css";
+@import "../css/grupe-elemente/_gaze-nobile.css";
+@import "../css/grupe-elemente/_lantanide.css";
+@import "../css/grupe-elemente/_actinide.css";
+
+
+
+h1{
+	color: white;
+	font-size: 60px;
+	text-underline-position: center;
+	-webkit-text-stroke: 2px black;
+	text-align: center;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 5%;
+	font-family: Georgia;
+}

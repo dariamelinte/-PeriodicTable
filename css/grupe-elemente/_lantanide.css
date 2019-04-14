@@ -1,0 +1,10 @@
+@import url("../_for-all.css");
+
+.lantanide{
+	background-color: var(--lantanide-bg-color);
+}
+
+.lantanide:hover{
+	background-color: var(--hover);
+	color: white;
+}

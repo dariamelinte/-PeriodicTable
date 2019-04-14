@@ -1,0 +1,10 @@
+@import url("../_for-all.css");
+
+.gaze_nobile{
+    background-color: var(--gaze-nobile-bg-color);
+}
+
+.gaze_nobile:hover{
+	background-color: var(--hover);
+	color: white;
+}

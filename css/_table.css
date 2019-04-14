@@ -1,0 +1,22 @@
+@import url("../css/_for-all.css");
+
+table {
+	width: 90%;	
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 2%;
+	padding:0;
+
+}
+td {
+	border: 3px solid black; /*culoarea bordurii si prima e grosimea*/
+    text-align: center;
+    padding: 12px; /*spatiu dintre scris si bordura*/
+	color:black; /*culoarea din interior ,daca vrei poti sa pui un bg-color sa ai casuta colorata si scrisul altfel */
+	border-radius: 5px; /*asta rotunjeste bordura */
+	font-family: Georgia;
+}
+
+.empty{
+    border: none;
+}

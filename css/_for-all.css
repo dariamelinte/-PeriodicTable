@@ -1,0 +1,26 @@
+:root{
+    --hover: #2b2f33;
+    --nemetale-bg-color: #46b980;
+    --alcaline-bg-color: #b94646;
+    --alcalino-pamantoase-bg-color: #b96346;
+    --metaloizi-bg-color: #b99c46;
+    --tranzitie-bg-color: #dd8c3c;
+    --post-tranzitie-bg-color: #b9b946;
+    --halogeni-bg-color: #9cb946;
+    --gaze-nobile-bg-color: #80b946;
+    --lantanide-bg-color: #46b980;
+    --actinide-bg-color:#46b99c;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+	border:none;
+}
+
+body{
+	background-image: url("../images/fundal.jpg");
+}

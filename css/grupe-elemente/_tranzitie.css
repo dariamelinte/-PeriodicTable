@@ -1,0 +1,10 @@
+@import url("../_for-all.css");
+
+.tranzitie{
+	background-color: var(--tranzitie-bg-color);
+}
+
+.tranzitie:hover{
+	background-color: var(--hover);
+	color: white;
+}

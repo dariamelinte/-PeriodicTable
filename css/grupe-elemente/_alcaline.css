@@ -1,0 +1,10 @@
+@import url("../_for-all.css");
+
+.alcaline{
+	background-color: var(--alcaline-bg-color);
+}
+
+.alcaline:hover{
+	background-color: var(--hover);
+	color: white;
+}
