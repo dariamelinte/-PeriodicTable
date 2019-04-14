@@ -17,5 +17,366 @@ const data = {
         "Stare de agregare": "Solida",
         "Structura cristalina": "Hexagonala",
         "Culoare" : "Incolor"
-    }
+    },
+
+
+    "Helium" : {
+
+    },
+
+
+    "Lithium" : {
+
+    },
+
+
+    "Beryllium" : {
+
+    },
+
+
+    "Boron" : {
+
+    },
+
+
+    "Carbon" : {
+
+    },
+
+
+    "Nitrogen" : {
+
+    },
+
+
+    "Oxygen" : {
+
+    },
+
+
+    "Fluorine" : {
+
+    },
+
+
+    "Neon" : {
+
+    },
+
+
+    "Sodium" : {
+
+    },
+
+
+    "Magnesium" : {
+
+    },
+
+
+    "Aluminium" : {
+
+    },
+
+
+    "Silicon" : {
+
+    },
+
+
+    "Phosphorus" : {
+
+    },
+
+
+    "Sulfurus" : {
+
+    },
+
+
+    "Chlorine" : {
+
+    },
+
+
+    "Argon" : {},
+
+
+    "Potassium" : {},
+
+
+    "Calcium" : {},
+
+
+    "Scandium" : {},
+
+
+    "Titanium" : {},
+
+
+    "Vanadium" : {},
+
+
+    "Chromium" : {},
+
+
+    "Manganese" : {},
+
+
+    "Iron" : {},
+
+
+    "Cobalt" : {},
+
+
+    "Nickel" : {},
+
+
+    "Copper" : {},
+
+
+    "Zinc" : {},
+
+
+    "Gallium" : {},
+
+
+    "Arsenic" : {},
+
+
+    "Selenium" : {},
+
+
+    "Bromine" : {},
+
+
+    "Krypton" : {},
+
+
+    "Rubidium" : {},
+
+
+    "Strontium" : {},
+
+
+    "Yttrium" : {},
+
+
+    "Zirconium" : {},
+
+
+    "Niobium" : {},
+
+
+    "Molybdenum" : {},
+
+
+    "Technetium" : {},
+
+
+    "Ruthenium" : {},
+
+
+    "Rhodium" : {},
+
+
+    "Palladium" : {},
+
+
+    "Silver" : {},
+
+
+    "Cadmium" : {},
+
+
+    "Indium" : {},
+
+
+    "Tin" : {},
+
+
+    "Antimony" : {},
+
+
+    "Tellurium" : {},
+
+
+    "Iodine" : {},
+
+
+    "Xenon" : {},
+
+
+    "Caesium" : {},
+
+
+    "Barium" : {},
+
+
+    "Hafnium" : {},
+
+
+    "Tantalum" : {},
+
+
+    "Tungsten" : {},
+
+
+    "Rhenium" : {},
+
+
+    "Osmium" : {},
+
+
+    "Iridium" : {},
+
+
+    "Platinum" : {},
+
+
+    "Gold" : {},
+
+
+    "Mercury" : {},
+
+
+    "Thallium" : {},
+
+
+    "Lead" : {},
+
+
+    "Bismuth" : {},
+
+
+    "Polonium" : {},
+
+
+    "Astatine" : {},
+
+
+    "Radon" : {},
+
+
+    "Francium" : {},
+
+
+    "Radium" : {},
+
+
+    "Rutherfordium" : {},
+
+
+    "Dubnium" : {},
+
+
+    "Seaborgium" : {},
+
+
+    "Bohrium" : {},
+
+
+    "Hassium" : {},
+
+
+    "Meitnerium" : {},
+
+
+    "Darmstadtium" : {},
+
+
+    "Roentgenium" : {},
+
+
+    "Copernicium" : {},
+
+
+    "Lanthanum" : {},
+
+
+    "Cerium" : {},
+
+
+    "Praseodymium" : {},
+
+
+    "Neodymium" : {},
+
+
+    "Promethium" : {},
+
+
+    "Samarium" : {},
+
+
+    "Europium" : {},
+
+
+    "Gadolinium" : {},
+
+
+    "Terbium" : {},
+
+
+    "Dysprosium" : {},
+
+
+    "Holmium" : {},
+
+
+    "Erbium" : {},
+
+
+    "Thulium" : {},
+
+
+    "Ytterbium" : {},
+
+
+    "Lutetium" : {},
+
+
+    "Actinium" : {},
+
+
+    "Thorium" : {},
+
+
+    "Protactinium" : {},
+
+
+    "Uranium" : {},
+
+
+    "Neptunium" : {},
+
+
+    "Plutonium" : {},
+
+
+    "Americium" : {},
+
+
+    "Curium" : {},
+
+
+    "Berkelium" : {},
+
+
+    "Californium" : {},
+
+
+    "Einsteinium" : {},
+
+
+    "Mendelevium" : {},
+
+
+    "Nobelium" : {},
+
+
+    "Lawrencium" : {}
+
+
 }

@@ -1,12 +1,10 @@
 //Get the elements
 const modal = document.getElementById('modal');
 const closeBtn = document.getElementsByClassName('close')[0];
-const openBtn = document.getElementById('openBtn');
 let elements = document.getElementsByClassName('hoverable');
 
 
 //Making the click events
-openBtn.addEventListener('click',openModal);
 closeBtn.addEventListener('click',closeModal);
 window.addEventListener('click',outsideClick);
 for(let elem of elements) {
