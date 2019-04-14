@@ -11,6 +11,8 @@
     --lantanide-bg-color: #46b980;
     --actinide-bg-color:#46b99c;
 
+    --index-bg-color: #1a0013;
+    --index-hover-bg-color: #330025;
 }
 
 *{
@@ -19,8 +21,11 @@
     text-decoration: none;
     outline: none;
 	border:none;
+	font-family: Georgia;
 }
 
+
 body{
-	background-image: url("../resources/images/fundal.jpg");
+    background-image: url("../resources/images/fundal.jpg");
+    width: 100%;
 }
