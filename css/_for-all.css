@@ -1,3 +1,5 @@
+@import url("../css/_header.css");
+
 :root{
     --hover: #2b2f33;
     --nemetale-bg-color: #46b980;
@@ -27,5 +29,7 @@
 
 body{
     background-image: url("../resources/images/fundal.jpg");
-    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
