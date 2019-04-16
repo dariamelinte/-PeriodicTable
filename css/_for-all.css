@@ -1,4 +1,4 @@
-@import url("../css/_header.css");
+@import url("../css/_nav-bar.css");
 
 :root{
     --hover: #2b2f33;
@@ -14,7 +14,7 @@
     --actinide-bg-color:#46b99c;
 
     --index-bg-color: #1a0013;
-    --index-hover-bg-color: #330025;
+    --index-hover-bg-color: #3d022d;
 }
 
 *{
@@ -22,7 +22,8 @@
     padding: 0;
     text-decoration: none;
     outline: none;
-	border:none;
+    border:none;
+    list-style-type: none;
 	font-family: Georgia;
 }
 
