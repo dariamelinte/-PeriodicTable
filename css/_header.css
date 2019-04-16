@@ -19,6 +19,14 @@ header{
 }
 
 
+.submenu{
+    overflow: hidden;
+	max-height: 0;
+	-webkit-transition: all 0.5s ease-out;
+}
+
+
+
 a:hover{
     background-color: var(--index-hover-bg-color); 
     color: white;
