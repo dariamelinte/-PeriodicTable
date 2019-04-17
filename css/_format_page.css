@@ -2,11 +2,39 @@
 
 
 .centered-page{
-    width: 70%;
-    height: 85vh;
+    width: 60vw;
     background-color: whitesmoke;
     margin:auto;
     display: flex;
-    align-content: center;
-    justify-content: center;
+}
+
+.absolut{
+    display:absolute;
+    margin: 10vh 5vw;
+}
+
+.title, .subtitle{
+    width: 50vw;
+    padding-bottom: 35px; 
+    margin: auto;
+}
+
+.title{
+    text-align: center;
+    font-size: 36px;
+}
+
+.subtitle{
+    font-size: 20px;
+    text-decoration-line: underline;
+}
+
+.content{
+    text-align: justify;
+    text-justify: inter-word;
+    padding-bottom: 40px;
+}
+
+img{
+    width: 40%;
 }
