@@ -16,7 +16,7 @@ nav{
     font-size: 18px;
     color: white;
     padding: 5vh 0vw;
-    width: 20vw;
+    width: 18vw;
     -webkit-transition: all 0.5s ease-out;
 }
 
@@ -32,7 +32,6 @@ nav ul li{
 
 nav ul li a{
     display: block;
-    border-radius: 0px 0px 4px 4px;
 }
 
 nav ul li ul{
@@ -45,7 +44,7 @@ nav ul li:hover ul{
 }
 
 nav ul li ul li{
-    width: 20vw;
+    width: 18vw;
 }
 
 nav ul li ul li a{
@@ -62,4 +61,8 @@ nav ul li ul li a{
 a:hover{
     background-color: var(--index-hover-bg-color); 
     color: white;
+ }
+
+ .border{
+    border-radius: 0px 0px 4px 4px;
  }
