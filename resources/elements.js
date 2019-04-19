@@ -1111,25 +1111,151 @@ const data = {
     },
 
 
-    "Xenon" : {},
+    "Xenon" : {
+        "Nume" : "Xenon",
+        "Simbol" : "Xe",
+        "Clasificare" :	"Gaz nobil",
+        "Grupa" : "VIII A",
+        "Perioada" : "5",
+        "Bloc" : "P",
+        "Număr atomic" : "54",
+        "Masă atomică"	: "	131,29 uam",
+        "Configurație electronică" : "[Kr] 4d10 5s2 5p6",
+        "Numărul de protoni/electroni" : "54",
+        "Numărul de neutroni" :	"77",
+        "Densitatea la 293 K" : "4,49 g/l",
+        "Punctul de topire" : 	"-111,9 °C",
+        "Punctul de fierbere" :	"-107 °C",
+        "Stare de agregare" : "Gazoasă",
+        "Structura cristalină" : "Cubică",
+        "Culoare" : "Incolor"
+    },
 
 
-    "Caesium" : {},
+    "Caesium" : {
+        "Nume" : "Cesiu",
+        "Simbol" : "Cs",
+        "Clasificare" :	"Metal alcalin",
+        "Grupa" : "I A",
+        "Perioada" : "6",
+        "Bloc" : "S",
+        "Număr atomic" : "55",
+        "Masă atomică"	: "132,9 uam",
+        "Configurație electronică" : "[Xe] 6s1",
+        "Numărul de protoni/electroni" : "55",
+        "Numărul de neutroni" :	"78",
+        "Densitatea la 293 K" : "1,90 g/cm3",
+        "Punctul de topire" : 	"28,4 °C",
+        "Punctul de fierbere" :	"690 °C",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Cubică cu fețe centrate",
+        "Culoare" : "Alb-argintiu"
+    },
 
 
-    "Barium" : {},
+    "Barium" : {
+        "Nume" : "Cesiu",
+        "Simbol" : "Cs",
+        "Clasificare" :	"Metal alcalino-pământos",
+        "Grupa" : "II A",
+        "Perioada" : "6",
+        "Bloc" : "S",
+        "Număr atomic" : "56",
+        "Masă atomică"	: "137,32 uam",
+        "Configurație electronică" : "[Xe] 6s2",
+        "Numărul de protoni/electroni" : "56",
+        "Numărul de neutroni" :	"81",
+        "Densitatea la 293 K" : "3,65 g/cm3",
+        "Punctul de topire" : 	"725 °C",
+        "Punctul de fierbere" :	"1640 °C",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Cubică cu fețe centrate",
+        "Culoare" : "Gri-argintiu"
+    },
 
 
-    "Hafnium" : {},
+    "Hafnium" : {
+        "Nume" : "Hafniu",
+        "Simbol" : "Hf",
+        "Clasificare" :	"Metal de tranziție",
+        "Grupa" : "IV B",
+        "Perioada" : "6",
+        "Bloc" : "D",
+        "Număr atomic" : "72",
+        "Masă atomică"	: "178,49  uam",
+        "Configurație electronică" : "[Xe] 4f14 5d2 6s2",
+        "Numărul de protoni/electroni" : "72",
+        "Numărul de neutroni" :	"104",
+        "Densitatea la 293 K" : "13,31 g/cm3",
+        "Punctul de topire" : 	"2150 °C",
+        "Punctul de fierbere" :	"5400 °C",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Hexagonală",
+        "Culoare" : "Argintiu"
+    },
 
 
-    "Tantalum" : {},
+    "Tantalum" : {
+        "Nume" : "Tantal",
+        "Simbol" : "Ta",
+        "Clasificare" :	"Metal de tranziție",
+        "Grupa" : "V B",
+        "Perioada" : "6",
+        "Bloc" : "D",
+        "Număr atomic" : "73",
+        "Masă atomică"	: "180,94 uam",
+        "Configurație electronică" : "[Xe] 4f14 5d3 6s2",
+        "Numărul de protoni/electroni" : "73",
+        "Numărul de neutroni" :	"108",
+        "Densitatea la 293 K" : "16,68 g/cm3",
+        "Punctul de topire" : 	"2996 °C",
+        "Punctul de fierbere" :	"5425 °C",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Cubică cu fețe centrate",
+        "Culoare" : "Gri-albăstrui"
+    },
 
 
-    "Tungsten" : {},
+    "Tungsten" : {
+        "Nume" : "Wolfram",
+        "Simbol" : "W",
+        "Clasificare" :	"Metal de tranziție",
+        "Grupa" : "VI B",
+        "Perioada" : "6",
+        "Bloc" : "D",
+        "Număr atomic" : "74",
+        "Masă atomică"	: "183,84 uam",
+        "Configurație electronică" : "[Xe] 4f14 5d4 6s2",
+        "Numărul de protoni/electroni" : "74",
+        "Numărul de neutroni" :	"110",
+        "Densitatea la 293 K" : "119,26 g/cm3",
+        "Punctul de topire" : "3407 °C",
+        "Punctul de fierbere" : "5927 °C",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Cubic",
+        "Culoare" : "Argintie"
+    },
 
 
-    "Rhenium" : {},
+    "Rhenium" : {        
+        "Nume" : "Wolfram",
+        "Simbol" : "W",
+        "Clasificare" :	"Metal de tranziție",
+        "Grupa" : "VI B",
+        "Perioada" : "6",
+        "Bloc" : "D",
+        "Număr atomic" : "74",
+        "Masă atomică"	: "183,84 uam",
+        "Configurație electronică" : "[Xe] 4f14 5d4 6s2",
+        "Numărul de protoni/electroni" : "74",
+        "Numărul de neutroni" :	"110",
+        "Densitatea la 293 K" : "119,26 g/cm3",
+        "Punctul de topire" : "3407 °C",
+        "Punctul de fierbere" : "5927 °C",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Cubic",
+        "Culoare" : "Argintie"
+    },
 
 
     "Osmium" : {},
