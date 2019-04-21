@@ -1476,7 +1476,7 @@ const data = {
         "Perioada" : "6",
         "Bloc" : "P",
         "Număr atomic" : "86",
-        "Masă atomică"	: "222,01g/mol",
+        "Masă atomică"	: "222,01 g/mol",
         "Configurație electronică" : "[Xe] 4f14 5d10 6s2 6p5",
         "Numărul de protoni/electroni" : "86",
         "Numărul de neutroni" :	"136",
@@ -1489,13 +1489,67 @@ const data = {
     },
 
 
-    "Francium" : {},
+    "Francium" : {
+        "Nume" : "Franciu",
+        "Simbol" : "Fr",
+        "Clasificare" :	"Metal alcalin",
+        "Grupa" : "I A",
+        "Perioada" : "7",
+        "Bloc" : "S",
+        "Număr atomic" : "87",
+        "Masă atomică"	: "223 g/mol",
+        "Configurație electronică" : "[Rn] 7s1",
+        "Numărul de protoni/electroni" : "87",
+        "Numărul de neutroni" :	"136",
+        "Densitatea la 293 K" : "2.8–3.0 g/cm3",
+        "Punctul de topire" : "27 °C",
+        "Punctul de fierbere" : "677 °C",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Cubică",
+        "Culoare" : "Albă argintie"
+    },
 
 
-    "Radium" : {},
+    "Radium" : {
+        "Nume" : "Radium",
+        "Simbol" : "Ra",
+        "Clasificare" :	"Metal alcalino-pământoasă",
+        "Grupa" : "II A",
+        "Perioada" : "7",
+        "Bloc" : "S",
+        "Număr atomic" : "88",
+        "Masă atomică"	: "226,02 g/mol",
+        "Configurație electronică" : "[Rn] 7s2",
+        "Numărul de protoni/electroni" : "88",
+        "Numărul de neutroni" :	"138",
+        "Densitatea la 293 K" : "5,50 g/cm3",
+        "Punctul de topire" : "700 °C",
+        "Punctul de fierbere" : "1140 °C",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Cubică",
+        "Culoare" : "Albă argintie"
+    },
 
 
-    "Rutherfordium" : {},
+    "Rutherfordium" : {
+        "Nume" : "Rutherfordiu",
+        "Simbol" : "Rf",
+        "Clasificare" :	"Metal de tranziție",
+        "Grupa" : "III B",
+        "Perioada" : "7",
+        "Bloc" : "D",
+        "Număr atomic" : "89",
+        "Masă atomică"	: "261,1 g/mol",
+        "Configurație electronică" : "[Rn] 5f14 6d2 7s2",
+        "Numărul de protoni/electroni" : "89",
+        "Numărul de neutroni" :	"172",
+        "Densitatea la 293 K" : "23.2 g/cm3",
+        "Punctul de topire" : "2100 °C",
+        "Punctul de fierbere" : "5500 °C",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Hexagonală ",
+        "Culoare" : "Albă cenușie"
+    },
 
 
     "Dubnium" : {},
@@ -1508,18 +1562,6 @@ const data = {
 
 
     "Hassium" : {},
-
-
-    "Meitnerium" : {},
-
-
-    "Darmstadtium" : {},
-
-
-    "Roentgenium" : {},
-
-
-    "Copernicium" : {},
 
 
     "Lanthanum" : {},
