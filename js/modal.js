@@ -28,7 +28,7 @@ function openModal(element) {
     modal.style.display = "block";
     ModalHeader.innerHTML = `<h1>Elementul ${element.Nume}</h1>`;
 
-    ModalBody.innerHTML = `<p>Simbolul: ${element.Simbol}</p>`;
+    ModalBody.innerHTML = `<p >Simbolul: ${element.Simbol}</p>`;
     ModalBody.innerHTML += `<p>Clasificare: ${element.Clasificare}</p>`;
     ModalBody.innerHTML += `<p>Grupa: ${element.Grupa}</p>`;
     ModalBody.innerHTML += `<p>Perioada: ${element.Perioada}</p>`;
@@ -43,7 +43,7 @@ function openModal(element) {
     ModalBody.innerHTML += `<p>Punctul de fierbere: ${element["Punctul de fierbere"]}</p>`;
     ModalBody.innerHTML += `<p>Stare de agregare: ${element["Stare de agregare"]}</p>`;
     ModalBody.innerHTML += `<p>Structura cristalina: ${element["Structura cristalină"]}</p>`;
-    ModalBody.innerHTML += `<p>Culoarea: ${element["Culoarea"]}</p>`;
+    ModalBody.innerHTML += `<p>Culoarea: ${element["Culoare"]}</p>`;
 
     ModalFooter.innerHTML = "<button class='closeModal'>Inchide</button>";
 
