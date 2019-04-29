@@ -27,8 +27,8 @@ navNode.innerHTML =
         <li><a href="elementele_corpului_uman.html"> Elementele corpului uman</a></li>
         <li><a href=""> Minerale si Vitamine  </a></li>
         <li><a href=""> Proteine  </a></li>
-        <li><a href=""> Lipide  </a></li>
-        <li><a href=""> Glucide  </a></li>
+        <li><a href="lipide.html"> Lipide  </a></li>
+        <li><a href="glucide.html"> Glucide  </a></li>
         <li><a href="" class="border"> Apa  </a></li>
 
     </ul>

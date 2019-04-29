@@ -23,6 +23,7 @@
     text-decoration: none;
     outline: none;
     border:none;
+    line-height: 1.2;
     list-style-type: none;
 	font-family: Georgia;
 }

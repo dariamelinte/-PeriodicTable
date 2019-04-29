@@ -1,0 +1,21 @@
+@import url("../css/_format_page.css");
+
+
+.alpha {
+    list-style: lower-alpha;
+    margin-left: 3%;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.disc {
+    list-style: disc;
+    margin-left: 5%;
+    text-align: justify;
+}
+
+.paragraf {
+    text-align: justify;
+    text-justify: inter-word;
+    padding-bottom: 20px;
+}
