@@ -1552,7 +1552,25 @@ const data = {
     },
 
 
-    "Dubnium" : {},
+    "Dubnium" : {
+        "Nume" : "Dubniu",
+        "Simbol" : "Db",
+        "Clasificare" :	"Metal de tranziție",
+        "Grupa" : "IV B",
+        "Perioada" : "7",
+        "Bloc" : "D",
+        "Număr atomic" : "90",
+        "Masă atomică"	: "262,11 g/mol",
+        "Configurație electronică" : "[Rn] 5f14 6d3 7s2",
+        "Numărul de protoni/electroni" : "90",
+        "Numărul de neutroni" :	"172",
+        "Densitatea la 293 K" : "29.3 g/cm3",
+        "Punctul de topire" : "	3221 °C",
+        "Punctul de fierbere" : "5100° °C",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Cubică",
+        "Culoare" : "Albă cenușie"
+    },
 
 
     "Seaborgium" : {},
