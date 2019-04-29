@@ -16,7 +16,7 @@ const data = {
         "Punctul de fierbere": "-252.87 °C",
         "Stare de agregare": "Solidă",
         "Structura cristalină": "Hexagonală",
-        "Culoarea" : "Incolor"
+        "Culoare" : "Incolor"
     },
 
 
