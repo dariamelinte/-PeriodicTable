@@ -12,8 +12,7 @@ navNode.innerHTML =
 
         <li><a href="istoric.html"> Istoric  </a></li>
         <li><a href="table_page.html"> Tabelul periodic al elementelor </a></li>
-        <li><a href="proprietati.html"> Proprietăți </a></li>
-        <li><a class="border" href="mendeleev.html"> Legile lui Mendeleev  </a></li>
+        <li><a href="proprietati.html" class="border"> Proprietăți </a></li>
 
     </ul>
 
