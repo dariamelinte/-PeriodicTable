@@ -29,7 +29,7 @@ navNode.innerHTML =
         <li><a href=""> Proteine  </a></li>
         <li><a href="lipide.html"> Lipide  </a></li>
         <li><a href="glucide.html"> Glucide  </a></li>
-        <li><a href="" class="border"> Apa  </a></li>
+        <li><a href="apa.html" class="border"> Apa  </a></li>
 
     </ul>
 </li>
