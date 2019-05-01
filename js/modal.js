@@ -28,7 +28,7 @@ function openModal(element) {
     modal.style.display = "block";
     ModalHeader.innerHTML = `<h1>Elementul ${element.Nume}</h1>`;
 
-    ModalBody.innerHTML = `<p >Simbolul: ${element.Simbol}</p>`;
+    ModalBody.innerHTML = `<p class="elements">Simbolul: ${element.Simbol}</p>`;
     ModalBody.innerHTML += `<p>Clasificare: ${element.Clasificare}</p>`;
     ModalBody.innerHTML += `<p>Grupa: ${element.Grupa}</p>`;
     ModalBody.innerHTML += `<p>Perioada: ${element.Perioada}</p>`;

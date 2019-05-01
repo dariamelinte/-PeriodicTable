@@ -1538,7 +1538,7 @@ const data = {
         "Grupa" : "III B",
         "Perioada" : "7",
         "Bloc" : "D",
-        "Număr atomic" : "89",
+        "Număr atomic" : "104",
         "Masă atomică"	: "261,1 g/mol",
         "Configurație electronică" : "[Rn] 5f14 6d2 7s2",
         "Numărul de protoni/electroni" : "89",
@@ -1556,10 +1556,10 @@ const data = {
         "Nume" : "Dubniu",
         "Simbol" : "Db",
         "Clasificare" :	"Metal de tranziție",
-        "Grupa" : "IV B",
+        "Grupa" : "V B",
         "Perioada" : "7",
         "Bloc" : "D",
-        "Număr atomic" : "90",
+        "Număr atomic" : "105",
         "Masă atomică"	: "262,11 g/mol",
         "Configurație electronică" : "[Rn] 5f14 6d3 7s2",
         "Numărul de protoni/electroni" : "90",
@@ -1573,100 +1573,67 @@ const data = {
     },
 
 
-    "Seaborgium" : {},
+    "Seaborgium" : {
+        "Nume" : "Seaborgiu",
+        "Simbol" : "Sg",
+        "Clasificare" :	"Metal de tranziție",
+        "Grupa" : "VI B",
+        "Perioada" : "7",
+        "Bloc" : "D",
+        "Număr atomic" : "106",
+        "Masă atomică"	: "263,1182 g/mol",
+        "Configurație electronică" : "[Rn] 5f14 6d4 7s2",
+        "Numărul de protoni/electroni" : "106",
+        "Numărul de neutroni" :	"163",
+        "Densitatea la 293 K" : "35.0 g/cm3",
+        "Punctul de topire" : "?",
+        "Punctul de fierbere" : "?",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Cubică",
+        "Culoare" : "Albă cenușie"
+    },
 
 
-    "Bohrium" : {},
+    "Bohrium" : {
+        "Nume" : "Bohriu",
+        "Simbol" : "Bh",
+        "Clasificare" :	"Metal de tranziție",
+        "Grupa" : "VII B",
+        "Perioada" : "7",
+        "Bloc" : "D",
+        "Număr atomic" : "107",
+        "Masă atomică"	: "262,1229 g/mol",
+        "Configurație electronică" : "[Rn] 5f14 6d5 7s2",
+        "Numărul de protoni/electroni" : "107",
+        "Numărul de neutroni" :	"163",
+        "Densitatea la 293 K" : "37 (estimat) kg/m³",
+        "Punctul de topire" : "?",
+        "Punctul de fierbere" : "?",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Hexagonală ",
+        "Culoare" : "Cenușie"
+    },
 
 
-    "Hassium" : {},
-
-
-    "Lanthanum" : {},
-
-
-    "Cerium" : {},
-
-
-    "Praseodymium" : {},
-
-
-    "Neodymium" : {},
-
-
-    "Promethium" : {},
-
-
-    "Samarium" : {},
-
-
-    "Europium" : {},
-
-
-    "Gadolinium" : {},
-
-
-    "Terbium" : {},
-
-
-    "Dysprosium" : {},
-
-
-    "Holmium" : {},
-
-
-    "Erbium" : {},
-
-
-    "Thulium" : {},
-
-
-    "Ytterbium" : {},
-
-
-    "Lutetium" : {},
-
-
-    "Actinium" : {},
-
-
-    "Thorium" : {},
-
-
-    "Protactinium" : {},
-
-
-    "Uranium" : {},
-
-
-    "Neptunium" : {},
-
-
-    "Plutonium" : {},
-
-
-    "Americium" : {},
-
-
-    "Curium" : {},
-
-
-    "Berkelium" : {},
-
-
-    "Californium" : {},
-
-
-    "Einsteinium" : {},
-
-
-    "Mendelevium" : {},
-
-
-    "Nobelium" : {},
-
-
-    "Lawrencium" : {}
+    "Hassium" : {
+        "Nume" : "Hassiu",
+        "Simbol" : "Hs",
+        "Clasificare" :	"Metal de tranziție",
+        "Grupa" : "VIII B",
+        "Perioada" : "7",
+        "Bloc" : "D",
+        "Număr atomic" : "109",
+        "Masă atomică"	: "265 g/mol",
+        "Configurație electronică" : "[Rn] 5f14 6d6 7s2",
+        "Numărul de protoni/electroni" : "109",
+        "Numărul de neutroni" :	"160",
+        "Densitatea la 293 K" : "41 g/cm3",
+        "Punctul de topire" : "2889 ºC",
+        "Punctul de fierbere" : "3990 ºC",
+        "Stare de agregare" : "Solidă",
+        "Structura cristalină" : "Hexagonală ",
+        "Culoare" : "Cenușie"
+    },
 
 
 }
