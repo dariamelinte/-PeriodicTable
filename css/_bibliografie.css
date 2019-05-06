@@ -1,1 +1,10 @@
 @import url("./_format_page.css");
+
+.circle{
+    list-style: circle;
+    margin-left: 3%;
+}
+
+ul{
+    width: 100%;
+}
