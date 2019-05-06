@@ -1,0 +1,48 @@
+1. Cate elemente alcatuiesc 99.99% din atomii organismului uman?
+    a.  5
+    b. 11
+    c. 20
+
+//b
+
+2. Ce macronutrient este cel mai immportant pentru dezvoltarea muschilor:
+    a. lipidele
+    b. glucidele
+    c. proteinele
+
+//c
+
+3. Gliceridele sunt:
+    a. glucide
+    b. proteine
+    c. lipide
+
+//c
+
+4. Glucidele sunt compuse din:
+    a. grupari carbonilice
+    b. grupari hidroxilice
+    c. grupari aminice
+
+// a,b
+
+5. Pielea se rideaza si se pateaza din cauza:
+    a. deshidratarii
+    b. deficienta de iod
+    c. intolerantei la lactate
+
+// a
+
+6. Cum se numesc elementele chimice din grupa a 8-a A:
+    a. alcaline
+    b. halogeni
+    c. nobile
+//c
+
+7. Din ce grupa fac parte metalele alcaline:
+    a. 1 A
+    b. 2 A
+    c. 3 A
+//a
+
+8.
