@@ -1,1 +1,18 @@
 @import url("./_format_page.css");
+
+.wrapper {
+    width: 100%;
+}
+
+.links {
+    color: blue;
+    background-color: whitesmoke;
+}
+
+.links:hover{
+    background-color: whitesmoke;
+}
+
+.links:visited {
+    color: blue;
+}
