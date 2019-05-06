@@ -26,24 +26,24 @@ function elementClick(e) {
 //Opens the modal
 function openModal(element) {
     modal.style.display = "block";
-    ModalHeader.innerHTML = `<h1>Elementul ${element.Nume}</h1>`;
+    ModalHeader.innerHTML = `<h1 class="modal-header-content">Elementul ${element.Nume}</h1>`;
 
-    ModalBody.innerHTML = `<p class="elements">Simbolul: ${element.Simbol}</p>`;
-    ModalBody.innerHTML += `<p>Clasificare: ${element.Clasificare}</p>`;
-    ModalBody.innerHTML += `<p>Grupa: ${element.Grupa}</p>`;
-    ModalBody.innerHTML += `<p>Perioada: ${element.Perioada}</p>`;
-    ModalBody.innerHTML += `<p>Bloc: ${element.Bloc}</p>`;
-    ModalBody.innerHTML += `<p>Numar Atomic: ${element["Număr atomic"]}</p>`;
-    ModalBody.innerHTML += `<p>Masa Atomica: ${element["Masă atomică"]}</p>`;
-    ModalBody.innerHTML += `<p>Configuratie electronica: ${element["Configurație electronică"]}</p>`;
-    ModalBody.innerHTML += `<p>Numarul de protoni/electroni: ${element["Numărul de protoni/electroni"]}</p>`;
-    ModalBody.innerHTML += `<p>Numarul de neutroni: ${element["Numărul de neutroni"]}</p>`;
-    ModalBody.innerHTML += `<p>Densitatea la 293 K: ${element["Densitatea la 293 K"]}</p>`;
-    ModalBody.innerHTML += `<p>Punctul de topire: ${element["Punctul de topire"]}</p>`;
-    ModalBody.innerHTML += `<p>Punctul de fierbere: ${element["Punctul de fierbere"]}</p>`;
-    ModalBody.innerHTML += `<p>Stare de agregare: ${element["Stare de agregare"]}</p>`;
-    ModalBody.innerHTML += `<p>Structura cristalina: ${element["Structura cristalină"]}</p>`;
-    ModalBody.innerHTML += `<p>Culoarea: ${element["Culoare"]}</p>`;
+    ModalBody.innerHTML = `<p class="top-element">Simbolul: ${element.Simbol}</p>`;
+    ModalBody.innerHTML += `<p class="elements even">Clasificare: ${element.Clasificare}</p>`;
+    ModalBody.innerHTML += `<p class="elements">Grupa: ${element.Grupa}</p>`;
+    ModalBody.innerHTML += `<p class="elements even">Perioada: ${element.Perioada}</p>`;
+    ModalBody.innerHTML += `<p class="elements">Bloc: ${element.Bloc}</p>`;
+    ModalBody.innerHTML += `<p class="elements even">Numar Atomic: ${element["Număr atomic"]}</p>`;
+    ModalBody.innerHTML += `<p class="elements">Masa Atomica: ${element["Masă atomică"]}</p>`;
+    ModalBody.innerHTML += `<p class="elements even">Configuratie electronica: ${element["Configurație electronică"]}</p>`;
+    ModalBody.innerHTML += `<p class="elements">Numarul de protoni/electroni: ${element["Numărul de protoni/electroni"]}</p>`;
+    ModalBody.innerHTML += `<p class="elements even">Numarul de neutroni: ${element["Numărul de neutroni"]}</p>`;
+    ModalBody.innerHTML += `<p class="elements">Densitatea la 293 K: ${element["Densitatea la 293 K"]}</p>`;
+    ModalBody.innerHTML += `<p class="elements even">Punctul de topire: ${element["Punctul de topire"]}</p>`;
+    ModalBody.innerHTML += `<p class="elements">Punctul de fierbere: ${element["Punctul de fierbere"]}</p>`;
+    ModalBody.innerHTML += `<p class="elements even">Stare de agregare: ${element["Stare de agregare"]}</p>`;
+    ModalBody.innerHTML += `<p class="elements">Structura cristalina: ${element["Structura cristalină"]}</p>`;
+    ModalBody.innerHTML += `<p class="elements even">Culoarea: ${element["Culoare"]}</p>`;
 
     ModalFooter.innerHTML = "<button class='closeModal'>Inchide</button>";
 

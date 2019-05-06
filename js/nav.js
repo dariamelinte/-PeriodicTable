@@ -35,5 +35,5 @@ navNode.innerHTML =
 
 <li><a href="bibliografie.html"         class="button"> Bibliografie </a></li>
 
-<li><a href="contact.html"              class="button"> Contact </a></li>
+<!--<li><a href="contact.html"              class="button"> Contact </a></li>-->
 </ul>`

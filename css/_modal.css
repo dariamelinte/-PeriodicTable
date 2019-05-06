@@ -10,12 +10,54 @@
     z-index: 10;
 }
 
+.modal-header {
+    background-color: #3D022D;
+    color: white;
+    text-align: center;
+    height: 60px;
+    padding: 10px 0;
+}
+
+.modal-header-content {
+    /*margin: auto 0;*/
+    /*vertical-align: middle;*/
+    margin-top: 8px;
+}
+
 .modal-content {
     background: #ffffff;
     width: 60%;
-    margin: 10% auto;
+    margin: 10% auto;;
+}
+
+.closeModal {
+    background-color: inherit;
+    color: white;
+    /*margin: auto 0;*/
+    width: 100%;
+    margin-top: 6px;
+}
+
+.modal-footer {
+    height: 30px;
+    width: 100%;
+    background-color: #3D022D;
+    color: white;
+    text-align: center;
+    margin: auto 0;
+}
+
+.top-element {
+    margin-top: 8px;
+}
+
+.even {
+    /*background-color: #f2eded;*/
+    background-color: whitesmoke;
 }
 
 .elements{
-    color:red;
+    /*margin-top: 8px;*/
+    padding-top: 5px;
+    /*color:red;*/
 }
