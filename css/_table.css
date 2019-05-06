@@ -1,6 +1,6 @@
 @import url("../css/_for-all.css");
 
-table {
+#table_page{
 	width: 90%;	
 	margin-right: 5%;
 	margin-left: 5%;
@@ -8,7 +8,8 @@ table {
 	padding:0;
 
 }
-td {
+ 
+td{
 	border: 3px solid black; /*culoarea bordurii si prima e grosimea*/
     text-align: center;
     padding: 12px; /*spatiu dintre scris si bordura*/

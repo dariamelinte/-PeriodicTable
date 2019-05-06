@@ -16,6 +16,7 @@
     text-align: center;
     height: 60px;
     padding: 10px 0;
+    border-radius: 4px 4px 0px 0px;
 }
 
 .modal-header-content {
@@ -26,8 +27,9 @@
 
 .modal-content {
     background: #ffffff;
-    width: 60%;
-    margin: 10% auto;;
+    width: 40%;
+    margin: 10% auto;
+    border-radius: 5px;
 }
 
 .closeModal {
@@ -45,6 +47,7 @@
     color: white;
     text-align: center;
     margin: auto 0;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .top-element {
@@ -57,8 +60,11 @@
 }
 
 .elements{
-    /*margin-top: 8px;*/
-    padding-top: 2px;
-    padding-bottom: 2px;
-    /*color:red;*/
+    padding: 3px;
+    display: flex;
+}
+
+.centered{
+    text-align: center;
+    width: 50%;
 }
