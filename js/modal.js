@@ -28,24 +28,88 @@ function openModal(element) {
     modal.style.display = "block";
     ModalHeader.innerHTML = `<h1 class="modal-header-content">Elementul ${element.Nume}</h1>`;
 
-    ModalBody.innerHTML = `<p class="top-element">Simbolul: ${element.Simbol}</p>`;
-    ModalBody.innerHTML += `<p class="elements even">Clasificare: ${element.Clasificare}</p>`;
-    ModalBody.innerHTML += `<p class="elements">Grupa: ${element.Grupa}</p>`;
-    ModalBody.innerHTML += `<p class="elements even">Perioada: ${element.Perioada}</p>`;
-    ModalBody.innerHTML += `<p class="elements">Bloc: ${element.Bloc}</p>`;
-    ModalBody.innerHTML += `<p class="elements even">Numar Atomic: ${element["Număr atomic"]}</p>`;
-    ModalBody.innerHTML += `<p class="elements">Masa Atomica: ${element["Masă atomică"]}</p>`;
-    ModalBody.innerHTML += `<p class="elements even">Configuratie electronica: ${element["Configurație electronică"]}</p>`;
-    ModalBody.innerHTML += `<p class="elements">Numarul de protoni/electroni: ${element["Numărul de protoni/electroni"]}</p>`;
-    ModalBody.innerHTML += `<p class="elements even">Numarul de neutroni: ${element["Numărul de neutroni"]}</p>`;
-    ModalBody.innerHTML += `<p class="elements">Densitatea la 293 K: ${element["Densitatea la 293 K"]}</p>`;
-    ModalBody.innerHTML += `<p class="elements even">Punctul de topire: ${element["Punctul de topire"]}</p>`;
-    ModalBody.innerHTML += `<p class="elements">Punctul de fierbere: ${element["Punctul de fierbere"]}</p>`;
-    ModalBody.innerHTML += `<p class="elements even">Stare de agregare: ${element["Stare de agregare"]}</p>`;
-    ModalBody.innerHTML += `<p class="elements">Structura cristalina: ${element["Structura cristalină"]}</p>`;
-    ModalBody.innerHTML += `<p class="elements even">Culoarea: ${element["Culoare"]}</p>`;
+    ModalBody.innerHTML = 
+    `<div class="elements">
+        <div class="centered">Simbolul</div> 
+        <div class="centered">${element.Simbol}</div>
+    </div>
 
-    ModalFooter.innerHTML = "<button class='closeModal'>Inchide</button>";
+    <div class="elements even">
+        <div class="centered">Clasificare</div>
+        <div class="centered">${element.Clasificare}</div>
+    </div>
+
+    <div class="elements">
+        <div class="centered">Grupa</div>
+        <div class="centered">${element.Grupa}</div>
+    </div>
+    
+    <div class="elements even">
+        <div class="centered">Perioada</div>
+        <div class="centered">${element.Perioada}</div>
+    </div>
+    
+    <div class="elements">
+        <div class="centered">Bloc</div>
+        <div class="centered">${element.Bloc}</div>
+    </div>
+    
+    <div class="elements even">
+        <div class="centered">Număr Atomic</div>
+        <div class="centered">${element["Număr atomic"]}</div>
+    </div>
+    
+    <div class="elements">
+        <div class="centered">Masa Atomică</div>
+        <div class="centered">${element["Masă atomică"]}</div>
+    </div>
+    
+    <div class="elements even">
+        <div class="centered">Configurație electronică</div>
+        <div class="centered">${element["Configurație electronică"]}</div>
+    </div>
+
+    <div class="elements">
+        <div class="centered">Numărul de protoni/electroni</div>
+        <div class="centered">${element["Numărul de protoni/electroni"]}</div>
+    </div>
+
+    <div class="elements even">
+        <div class="centered">Numărul de neutroni</div>
+        <div class="centered">${element["Numărul de neutroni"]}</div>
+    </div>
+
+    <div class="elements">
+        <div class="centered">Densitatea la 293 K</div>
+        <div class="centered">${element["Densitatea la 293 K"]}</div>
+    </div>
+
+    <div class="elements even">
+        <div class="centered">Punctul de topire</div>
+        <div class="centered">${element["Punctul de topire"]}</div>
+    </div>
+
+    <div class="elements">
+        <div class="centered">Punctul de fierbere</div>
+        <div class="centered">${element["Punctul de fierbere"]}</div>
+    </div>
+
+    <div class="elements even">
+        <div class="centered">Stare de agregare</div>
+        <div class="centered">${element["Stare de agregare"]}</div>
+    </div>
+
+    <div class="elements">
+        <div class="centered">Structura cristalină</div>
+        <div class="centered">${element["Structura cristalină"]}</div>
+    </div>
+
+    <div class="elements even">
+        <div class="centered">Culoarea</div>
+        <div class="centered">${element["Culoare"]}</div>
+    </div>`;
+
+    ModalFooter.innerHTML = "<button class='closeModal'>Închide</button>";
 
     let btn = document.getElementsByClassName('closeModal')[0];
     btn.addEventListener('click',closeModal)
