@@ -9,7 +9,14 @@ document.getElementById('button').addEventListener('click', () => {
             checked++;
             if (inputs[input].value == 1) {
                 k++;
-
+                answers[input].className += " valid";
+            }
+            else 
+            {
+                answers[input].className += " invalid";
+                for(let input in inputs)
+                if(inputs[input].value == 1)
+                    answers[input].className += " valid";
             }
         }
     }
@@ -25,6 +32,6 @@ document.getElementById('button').addEventListener('click', () => {
             document.getElementById("result").innerHTML = `Ați răspuns la ${k} întrebări din ${inputs.length / 3} corect :)`
     }
     else
-        alert("Nu ai r[spuns la toate întrebările!");
+        alert("Nu ați răspuns la toate întrebările!");
         
 })

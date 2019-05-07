@@ -33,16 +33,16 @@
 
 .varianta{
     width: 100%;
-    background-color: yellow;
     padding: 5px 3px;
     margin:0;
     
 }
 
-/*.valid{
+.valid{
     background-color: #c8ffb2;
+
 }
 
 .invalid{    
     background-color: #ffc4bc;
-}*/
+}
