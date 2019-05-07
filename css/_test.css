@@ -1,0 +1,21 @@
+@import url("../css/_format_page.css");
+
+.content{
+    padding: 15px 0px;
+}
+
+.varianta{
+    width: 100%;
+    background-color: yellow;
+    padding: 5px 3px;
+    margin:0;
+    
+}
+
+/*.valid{
+    background-color: green;
+}
+
+.invalid{    
+    background-color: red;
+}*/

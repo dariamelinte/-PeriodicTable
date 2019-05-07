@@ -37,7 +37,7 @@ navNode.innerHTML =
 
     <ul class="submenu">
 
-        <li><a href=""> Testul 1 </a></li>
+        <li><a href="test.html"> Testul 1 </a></li>
         <li><a href=""> Testul 2 </a></li>
         <li><a href=""> Testul 3 </a></li>
     
