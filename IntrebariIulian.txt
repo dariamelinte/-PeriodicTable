@@ -19,30 +19,30 @@
 
 //c - pus
 
-4. Glucidele sunt compuse din:
+4. Glucidele nu sunt compuse din:
     a. grupari carbonilice
     b. grupari hidroxilice
     c. grupari aminice
 
-// a,b
+// c - pus
 
 5. Pielea se rideaza si se pateaza din cauza:
     a. deshidratarii
     b. deficienta de iod
     c. intolerantei la lactate
 
-// a
+// a - pus
 
 6. Cum se numesc elementele chimice din grupa a 8-a A:
     a. alcaline
     b. halogeni
     c. nobile
-//c
+//c - pus 
 
 7. Din ce grupa fac parte metalele alcaline:
     a. 1 A
     b. 2 A
     c. 3 A
-//a
+//a - pus
 
 8.
