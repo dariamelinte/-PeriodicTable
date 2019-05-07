@@ -20,6 +20,7 @@ document.getElementById('button').addEventListener('click', () => {
             }
         }
     }
+
     if (checked === 5)
     {
         if( k === 0 )
