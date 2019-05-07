@@ -33,6 +33,17 @@ navNode.innerHTML =
     </ul>
 </li>
 
+<li><a href="#" class="button"> Verifică-ți cunoștințele ! </a>
+
+    <ul class="submenu">
+
+        <li><a href=""> Testul 1 </a></li>
+        <li><a href=""> Testul 2 </a></li>
+        <li><a href=""> Testul 3 </a></li>
+    
+    </ul>
+</li>
+
 <li><a href="bibliografie.html"         class="button"> Bibliografie </a></li>
 
 <!--<li><a href="contact.html"              class="button"> Contact </a></li>-->
