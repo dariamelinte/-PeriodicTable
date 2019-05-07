@@ -9,5 +9,5 @@ console.log(answers);
 // });
 
 for(var answer in answers) {
-    console.log(answers[answer]);
+    console.log(answers);
 }
