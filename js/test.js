@@ -13,15 +13,18 @@ document.getElementById('button').addEventListener('click', () => {
             }
         }
     }
-    if (checked === 3)
+    if (checked === 5)
     {
-        if( k === 1 )
-            document.getElementById("result").innerHTML = `Ați răspuns la o întrebare corectă !`;
+        if( k === 0 )
+            document.getElementById("result").innerHTML = `Nu ați răspuns corect la nicio întrebare :(`
+        else if( k === 1 )
+            document.getElementById("result").innerHTML = `Ați răspuns la o întrebare corect :)`
+        else if( k === 5 )
+            document.getElementById("result").innerHTML = `Ați răspuns corect la toate întrebările ! Felicitări !`
         else
-            document.getElementById("result").innerHTML = `Ati raspuns la ${k} intrebari din ${inputs.length / 3} corect!`
-        else
-            alert("Nu ai raspuns la toate intrebarile!");
-
+            document.getElementById("result").innerHTML = `Ați răspuns la ${k} întrebări din ${inputs.length / 3} corect :)`
     }
+    else
+        alert("Nu ai r[spuns la toate întrebările!");
         
 })

@@ -1,5 +1,32 @@
 @import url("../css/_format_page.css");
 
+.flex{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+#result{
+    margin: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#button{
+    color: white;
+    background-color: #7a0b5c;
+    padding: 15px 3vw;
+    border-radius: 10px;
+    border: 2px rgb(81, 8, 62) solid;
+    font-size: 15px;
+}
+
+#button:hover{
+    background-color: rgb(145, 23, 113);
+}
+
+
+
 .content{
     padding: 15px 0px;
 }
