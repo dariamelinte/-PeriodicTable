@@ -16,7 +16,7 @@ nav{
     font-size: 18px;
     color: white;
     padding: 5vh 0vw;
-    width: 18vw;
+    width: 15vw;
     -webkit-transition: all 0.5s ease-out;
 }
 
@@ -44,7 +44,7 @@ nav ul li:hover ul{
 }
 
 nav ul li ul li{
-    width: 18vw;
+    width: 15vw;
 }
 
 nav ul li ul li a{

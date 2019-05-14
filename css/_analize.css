@@ -1,0 +1,20 @@
+@import url("../css/_format_page.css");
+
+.table-row {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.even{
+    background-color: 	#e6e6e6;
+}
+
+.table-element {
+    padding: 1vh;
+    margin: 1vh;
+}
+
+.input-edit{
+    border: 1px #444 solid;
+    border-radius: 4px;
+}

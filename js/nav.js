@@ -6,7 +6,7 @@ navNode.innerHTML =
 <li><a href="index.html" class="button"> Acasă </a></li>
 
 
-<li><a href="#" class="button"> Elemente in tabelul periodic </a>
+<li><a href="#" class="button"> Tabelul periodic </a>
 
     <ul class="submenu">
 
@@ -43,6 +43,8 @@ navNode.innerHTML =
     
     </ul>
 </li>
+
+<li><a href="analize.html" class="button"> Verifică-ți analizele ! </a></li>
 
 <li><a href="bibliografie.html"         class="button"> Bibliografie </a></li>
 

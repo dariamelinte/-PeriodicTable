@@ -11,6 +11,7 @@
 .absolut{
     display:absolute;
     margin: 10vh 5vw;
+    width: 100%;
 }
 
 .title, .subtitle{

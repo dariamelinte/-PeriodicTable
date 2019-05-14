@@ -25,7 +25,8 @@
     border:none;
     line-height: 1.2;
     list-style-type: none;
-	font-family: Georgia;
+	font-family: Georgia;	
+    box-sizing: border-box;
 }
 
 
