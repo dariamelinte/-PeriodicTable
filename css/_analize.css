@@ -1,15 +1,15 @@
 @import url("../css/_format_page.css");
+@import url("../css/_test.css");
 
 .table-row {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    align-self: center;
     width: 100%;
 }
 
 .table-element{
-    width: 20%;
+    width: 40%;
     text-align: left;
     margin-left: 1vw;
     padding: 1vh 0;
@@ -18,6 +18,10 @@
 .name{
     width: 40%;
     text-align: start;
+}
+
+.align{
+    text-align: center !important;
 }
 
 .even{
@@ -36,4 +40,33 @@
 
 .invalid{
     background-color: #ffc4bc;
+}
+
+.min, .max{
+    display: none;
+}
+
+.visible{
+    display: block;
+    width: 20%;
+}
+
+.hidden{
+    display: none;
+}
+
+.form{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 2%; 
+    background-color: #444;
+    align-items: center;
+}
+
+.form p{
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
 }

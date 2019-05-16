@@ -6,17 +6,7 @@ navNode.innerHTML =
 <li><a href="index.html" class="button"> Acasă </a></li>
 
 
-<li><a href="#" class="button"> Tabelul periodic </a>
-
-    <ul class="submenu">
-
-        <li><a href="istoric.html"> Istoric  </a></li>
-        <li><a href="table_page.html"> Elemente in tabelul periodic </a></li>
-<!--        <li><a href="proprietati.html" class="border"> Proprietăți </a></li>-->
-
-    </ul>
-
-</li>
+<li><a href="table_page.html" class="button"> Tabelul periodic </a></li>
 
 
 <li><a href="#" class="button"> Chimia corpului uman </a>

@@ -1,4 +1,4 @@
-let btn = document.getElementsByClassName('submitBtn')[0];
+let btn = document.getElementById("button");
 let inputs = document.getElementsByClassName('input-edit');
 let divInputs = document.getElementsByClassName('input-div');
 let tableRows = document.getElementsByClassName('table-row');
@@ -52,7 +52,10 @@ btn.addEventListener('click', (event) => {
                     //true
                     inputs[input].style.display = "none";
                     divInput.innerHTML += `<p>${value}</p>`;
-                    tableRow.classList.add("valid");
+
+                    // tableRow.classList.add("valid");
+
+                    tableRow.className += " valid";
 
                     console.log(true);
                 } else {
@@ -60,8 +63,17 @@ btn.addEventListener('click', (event) => {
                     console.log(false);
                     inputs[input].style.display = "none";
                     divInput.innerHTML += `<p>${value}</p>`;
-                    tableRow.classList.add("invalid");
+
+                    // tableRow.classList.add("invalid");
+                    
+                    tableRow.className += " invalid";
                 }
+
+                divInput.className += " align";
+                maxs[input].className += " visible";
+                mins[input].className += " visible";
+                divInput.className +=" visible";
+
             } else {
                 let maxFemale = analiza.maxValue.female;
                 let minFemale = analiza.minValue.female;
@@ -91,6 +103,8 @@ btn.addEventListener('click', (event) => {
                     }
                 }
             }
+        } else {
+            tableRows[input].className += " hidden";
         }
     }
 });
