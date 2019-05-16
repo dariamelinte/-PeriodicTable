@@ -2,36 +2,36 @@
 
 .table-row {
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+    width: 100%;
+}
+
+.table-element{
+    width: 20%;
+    text-align: left;
+    margin-left: 1vw;
+    padding: 1vh 0;
+}
+
+.name{
+    width: 40%;
+    text-align: start;
 }
 
 .even{
     background-color: 	#e6e6e6;
 }
 
-.table-element {
-    padding: 1vh;
-    margin: 1vh;
-}
-
-.input-div {
-    /*display: flex;*/
-    /*margin: 0 auto;*/
-    /*width: 100%;*/
-    /*height: 100%;*/
-}
-
 .input-edit{
-    /*width: 100%;*/
-    /*height: 100%;*/
-    /*align-self: center;*/
     border: 1px #444 solid;
     border-radius: 4px;
+    width: 80%;
 }
 
 .valid{
     background-color: #c8ffb2;
-
 }
 
 .invalid{
