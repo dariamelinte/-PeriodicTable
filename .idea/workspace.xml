@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="731ba8ce-c80d-4cbd-978f-c6bef66c17af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_page/analize.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_page/analize.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_page/glucide.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_page/glucide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/analize.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/analize.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/analize.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/analize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_page/proteine.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_page/proteine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_page/test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html_page/test2.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,20 +18,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html_page/glucide.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="73" column="46" selection-start-line="73" selection-start-column="46" selection-end-line="73" selection-end-column="46" />
+            <state relative-caret-position="276">
+              <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html_page/test2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html_page/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="52" column="90" selection-start-line="52" selection-start-column="90" selection-end-line="52" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html_page/proteine.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="84" column="10" lean-forward="true" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
+            <state relative-caret-position="318">
+              <caret line="76" column="71" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -82,11 +99,9 @@
         <option value="$PROJECT_DIR$/html_page/istoric.html" />
         <option value="$PROJECT_DIR$/html_page/proprietati.html" />
         <option value="$PROJECT_DIR$/html_page/table_page.html" />
-        <option value="$PROJECT_DIR$/html_page/index.html" />
         <option value="$PROJECT_DIR$/html_page/lipide.html" />
         <option value="$PROJECT_DIR$/html_page/minerale_si_vitamine.html" />
         <option value="$PROJECT_DIR$/css/_modal.css" />
-        <option value="$PROJECT_DIR$/html_page/proteine.html" />
         <option value="$PROJECT_DIR$/css/_bibliografie.css" />
         <option value="$PROJECT_DIR$/html_page/bibliografie.html" />
         <option value="$PROJECT_DIR$/html_page/apa.html" />
@@ -97,6 +112,9 @@
         <option value="$PROJECT_DIR$/html_page/analize.html" />
         <option value="$PROJECT_DIR$/js/nav.js" />
         <option value="$PROJECT_DIR$/html_page/glucide.html" />
+        <option value="$PROJECT_DIR$/html_page/test2.html" />
+        <option value="$PROJECT_DIR$/html_page/index.html" />
+        <option value="$PROJECT_DIR$/html_page/proteine.html" />
       </list>
     </option>
   </component>
@@ -110,18 +128,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="PeriodicTable" type="b2602c69:ProjectViewProjectNode" />
               <item name="PeriodicTable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PeriodicTable" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PeriodicTable" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PeriodicTable" type="b2602c69:ProjectViewProjectNode" />
@@ -142,6 +154,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,11 +219,13 @@
       <workItem from="1557940950824" duration="7995000" />
       <workItem from="1558009704179" duration="22000" />
       <workItem from="1558029205831" duration="3123000" />
+      <workItem from="1558358852321" duration="14000" />
+      <workItem from="1558375359580" duration="1934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56315000" />
+    <option name="totallyTimeSpent" value="58263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
@@ -239,13 +254,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_nemetale.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/grupe-elemente/_actinide.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -406,13 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_page/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/_lipide.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -554,17 +555,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_page/proteine.html">
+    <entry file="file://$PROJECT_DIR$/html_page/glucide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="84" column="10" lean-forward="true" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
+        <state relative-caret-position="276">
+          <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html_page/glucide.html">
+    <entry file="file://$PROJECT_DIR$/html_page/test2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="73" column="46" selection-start-line="73" selection-start-column="46" selection-end-line="73" selection-end-column="46" />
+        <state relative-caret-position="252">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="52" column="90" selection-start-line="52" selection-start-column="90" selection-end-line="52" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_page/proteine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="76" column="71" selection-start-line="76" selection-start-column="71" selection-end-line="76" selection-end-column="71" />
         </state>
       </provider>
     </entry>
