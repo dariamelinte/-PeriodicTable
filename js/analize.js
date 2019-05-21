@@ -6,6 +6,7 @@ let genders = document.getElementsByClassName('gender');
 let form = document.getElementsByClassName('form')[0];
 let mins = document.getElementsByClassName('min');
 let maxs = document.getElementsByClassName('max');
+var warning = document.getElementsByClassName("warning")[0];
 
 form.addEventListener('change', (event) => {
     let gender = event.target.value;
@@ -26,6 +27,8 @@ btn.addEventListener('click', (event) => {
     if (btn.classList.contains('again')) {
         //Reloads the whole page
         location.reload();
+
+        warning.className += " warning";
     } else {
 
 
@@ -109,6 +112,8 @@ btn.addEventListener('click', (event) => {
                         mins[input].className += " visible";
                         divInput.className += " visible";
 
+
+
                     } else {
                         if (value >= minFemale && value <= maxFemale) {
                             inputs[input].style.display = "none";
@@ -130,10 +135,12 @@ btn.addEventListener('click', (event) => {
                 }
             } else {
                 tableRows[input].className += " hidden";
+                //hides the warning
+                warning.className += " hidden";
             }
         }
 
-        btn.innerHTML = "Din Nou";
+        btn.innerHTML = "Refaceți !";
         btn.className += " again";
         btn.classList.remove("submit");
     }

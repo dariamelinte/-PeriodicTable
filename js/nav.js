@@ -29,7 +29,7 @@ navNode.innerHTML =
 
         <li><a href="test1.html"> Testul 1 </a></li>
         <li><a href="test2.html"> Testul 2 </a></li>
-        <li><a href="test3.html"> Testul 3 </a></li>
+        <li><a href="test3.html" class="border"> Testul 3 </a></li>
     
     </ul>
 </li>

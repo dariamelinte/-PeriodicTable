@@ -70,3 +70,11 @@
     justify-content: space-between;
     color: white;
 }
+
+.warning{
+    font-size: 16px;
+    padding: 2vw;
+    text-align: center;
+    color: red;
+
+}
